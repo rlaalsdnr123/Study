@@ -6,6 +6,7 @@ public class BaseBallTestTeacher {
 	
 	private int strike;
 	private int ball;
+	private int aa;
 	Scanner scanner = new Scanner(System.in);
 	public static void main(String[] args) {
 		new BaseBallTestTeacher().gameStart();
